@@ -9,6 +9,9 @@
 
 ## Installation
 
+- Laravel 9.
+- PHP 8.2
+
 - Clone this project.
 - Create database mysql "survey-app".
 - Edit .env dbname, dbusername, dbpassword.
